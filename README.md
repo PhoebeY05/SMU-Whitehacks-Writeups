@@ -8,7 +8,7 @@
 
   ## Categories (Number of challenges solved):
   1. Web (3)
-  2. OSINT (2)
+  2. OSINT (1)
   3. Miscellaneous (3)
   4. Pwn (3)
   5. Cryptography (2)
