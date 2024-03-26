@@ -8,7 +8,11 @@
 
 ## Categories (Number of challenges solved):
 ### Web (3)
+1. [CLick Me!](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Click%20Me!)
+2. [Corporate Qualms](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Corporate%20Qualms)
+3. [Easy_Authentication](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Easy_Authentication)
 ### OSINT (1)
+1. [Whitehat Society's #1 Fan - Part 1](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/OSINT/Whitehat%20Society's%20%231%20Fan%20-%20Part%201)
 ### Miscellaneous (3)
 1. [Crack Your Math](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Miscellaneous/Crack%20Your%20Math)
 2. [Finding Bees](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Miscellaneous/Finding%20Bees)
