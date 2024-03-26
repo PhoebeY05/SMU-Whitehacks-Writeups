@@ -16,8 +16,9 @@ while True:
     question = remove(question)
 ```
 
-3. Evaluate the equation and send it to the server => After this happens 123 times, the server will print out the flag
+3. Evaluate the equation and send it to the server 
 ```python
 result = numexpr.evaluate(question).item()
 tn.write(str(result).encode())
 ```
+4. Run the full Python script (math.py) to get the flag
