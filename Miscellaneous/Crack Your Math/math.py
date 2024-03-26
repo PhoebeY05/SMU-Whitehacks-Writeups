@@ -8,9 +8,9 @@ def remove(string):
     return string.replace(" ", "")
     
 while True:
-    tn.read_until(b"/ 123\n")
+    print(tn.read_until(b"/ 123\n"))
     question = tn.read_until(b"\n").decode()
+    print(question)
     question = remove(question)
     result = numexpr.evaluate(question).item()
-    print(result)
     tn.write(str(result).encode())
