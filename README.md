@@ -20,6 +20,7 @@
 ### Pwn (3)
 1. [login](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Pwn/login)
 2. [variedfun](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Pwn/variedfun)
+3. [Connect](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Pwn/Connect)
 ### Cryptography (2)
 1. [Modern Clueless Cipher](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Cryptography/Modern%20Clueless%20Cipher)
 2. [Really Simple Algo](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Cryptography/Really%20Simple%20Algo)
