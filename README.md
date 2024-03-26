@@ -8,7 +8,7 @@
 
 ## Categories (Number of challenges solved):
 ### Web (3)
-1. [CLick Me!](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Click%20Me!)
+1. [Click Me!](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Click%20Me!)
 2. [Corporate Qualms](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Corporate%20Qualms)
 3. [Easy_Authentication](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/tree/main/Web/Easy_Authentication)
 ### OSINT (1)
