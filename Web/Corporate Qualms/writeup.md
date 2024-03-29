@@ -1,1 +1,3 @@
+# Description
+Corporation Incorporated has recently hired an intern to create a website to show off their whole team! They recently fired an employee for hacking their internal servers, though, but I'm sure all of his information got scrubbed! Probably... 
 

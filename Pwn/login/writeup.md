@@ -1,3 +1,5 @@
+# Description
+"Oh noooo I forgot my credentials to the server! I'm pretty sure I wrote it somewhere the source code but I can't figure out where!"
 # Steps
 Disclaimer: Only login.c was used in my solution
 1. From login.c, we can see that the program compares the input at login with "Weje\n" to move on

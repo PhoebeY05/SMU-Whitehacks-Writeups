@@ -1,3 +1,6 @@
+# Description
+Just click me and get the flag! Sounds simple enough...
+
 # Steps
 1. Inspect the website using Chrome Developer Tools => 2 ways to do so:
    

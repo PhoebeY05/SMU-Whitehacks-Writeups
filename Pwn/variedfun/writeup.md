@@ -1,3 +1,5 @@
+# Description
+It is time to learn about Buffer Overflow.  Overwrite target to get the flag
 # Steps
 1. From variedfun.c, we can infer that we need to input more than 64 characters to change `target`.
 ```c

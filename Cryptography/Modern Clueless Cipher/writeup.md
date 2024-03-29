@@ -1,3 +1,7 @@
+# Description
+"After learning basic crypto cipher, I have encrypted the flag and provided you with the key as well. Decrypt it to get the flag.
+BTW my keyboard keeps inputting f at regular intervals... 
+
 # Steps
 1. We can search up the challenge name to check for any clues => Google Search "Modern Clueless Cipher"
     - The first result that pops up is a writeup in CTFHub: https://writeup.ctfhub.com/Challenge/2020/CSICTF/Crypto/tgGcJBgNzLkru7brJzXVDf.html

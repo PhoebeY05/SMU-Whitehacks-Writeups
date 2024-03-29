@@ -1,3 +1,7 @@
+# Description
+50... my fr13nd 64v3 m3 7h15 f1l3 bu7 175 0bv10u5ly c0rrup73d 4nd 1 c4n'7 533 wh47'5 1n51d3. c4n y0u h3lp m3?
+
+`c0rrup73d.png`
 # Steps
 1. Open c0rrup73d.png in a hex editor (https://hexed.it/)
     - Comparing its header with normal PNG headers (found in https://www.garykessler.net/library/file_sigs.html), we can see that it's first two bytes are incorrect (supposed to be 89 50 instead of 01 01)
