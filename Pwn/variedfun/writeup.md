@@ -1,5 +1,7 @@
 # Description
 It is time to learn about Buffer Overflow.  Overwrite target to get the flag
+
+[variedfun.c](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/blob/main/Pwn/variedfun/variedfun.c)
 # Steps
 1. From variedfun.c, we can infer that we need to input more than 64 characters to change `target`.
 ```c
