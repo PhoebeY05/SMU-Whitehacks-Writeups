@@ -1,5 +1,7 @@
 # Description
 Read this description Super Attentively and you may identify this Algorithm.
+
+[chall.txt](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/blob/main/Cryptography/Really%20Simple%20Algo/chall.txt)
 # Steps
 1. As always, the first step is to search online for information => Google search "How to decrypt rsa with p, q, e and ct"
    - Go to the first result: https://crypto.stackexchange.com/questions/19444/rsa-given-q-p-and-e => use the python script with the challenge parameters (chall.txt) in the answer to get n and plaintext
