@@ -1,6 +1,8 @@
 # Description
-"After learning basic crypto cipher, I have encrypted the flag and provided you with the key as well. Decrypt it to get the flag.
+After learning basic crypto cipher, I have encrypted the flag and provided you with the key as well. Decrypt it to get the flag.
 BTW my keyboard keeps inputting f at regular intervals... 
+
+[flag.txt](https://github.com/PhoebeY05/SMU-Whitehacks-Writeups/blob/main/Cryptography/Modern%20Clueless%20Cipher/flag.txt)
 
 # Steps
 1. We can search up the challenge name to check for any clues => Google Search "Modern Clueless Cipher"
